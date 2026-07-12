@@ -1,0 +1,9 @@
+name: CD
+permissions: {}
+on:
+  workflow_dispatch:
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "CD workflow scaffold"
