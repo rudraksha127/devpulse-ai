@@ -1,1 +1,90 @@
+name: Daily Learning Update
 
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Daily Update
+        run: |
+          DATE=$(date +"%d %B %Y")
+
+          DSA_TIPS=(
+            "Practice Binary Search on Answer."
+            "Sliding Window optimizes many O(n²) problems."
+            "Prefix Sum helps answer range queries efficiently."
+            "Two Pointers reduce unnecessary iterations."
+            "DFS and BFS are fundamental graph traversals."
+          )
+
+          AWS_TIPS=(
+            "Use IAM Roles instead of Access Keys whenever possible."
+            "Enable versioning on S3 buckets."
+            "CloudWatch helps monitor AWS resources."
+            "Lambda is serverless and event-driven."
+            "Use Auto Scaling for high availability."
+          )
+
+          PYTHON_TIPS=(
+            "Use list comprehensions for cleaner code."
+            "Enumerate is better than manual indexing."
+            "Use zip() to iterate over multiple lists."
+            "Virtual environments isolate dependencies."
+            "Use pathlib instead of os.path."
+          )
+
+          AI_TIPS=(
+            "RAG improves factual accuracy of LLMs."
+            "Prompt engineering improves output quality."
+            "Embeddings enable semantic search."
+            "Vector databases power modern AI retrieval."
+            "Agentic AI combines tools with reasoning."
+          )
+
+          RANDOM_DSA=${DSA_TIPS[$RANDOM % ${#DSA_TIPS[@]}]}
+          RANDOM_AWS=${AWS_TIPS[$RANDOM % ${#AWS_TIPS[@]}]}
+          RANDOM_PY=${PYTHON_TIPS[$RANDOM % ${#PYTHON_TIPS[@]}]}
+          RANDOM_AI=${AI_TIPS[$RANDOM % ${#AI_TIPS[@]}]}
+
+          cat > README.md <<EOF
+          # 📅 Daily Learning Log
+
+          Last Updated: $DATE
+
+          ## 🧠 DSA Tip
+          - $RANDOM_DSA
+
+          ## ☁️ AWS Tip
+          - $RANDOM_AWS
+
+          ## 🐍 Python Tip
+          - $RANDOM_PY
+
+          ## 🤖 AI Tip
+          - $RANDOM_AI
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "docs: daily learning update"
+            git push
+          fi
