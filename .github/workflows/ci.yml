@@ -24,3 +24,6 @@ jobs:
 
       - name: Run scaffold check
         run: python scripts/quality/scaffold_check.py
+
+      - name: Run scaffold unit tests
+        run: python -m unittest discover -s tests/unit -p 'test_*.py'
