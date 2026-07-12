@@ -1,4 +1,5 @@
 name: Plugins Validation
+permissions: {}
 on:
   workflow_dispatch:
 jobs:
