@@ -1,0 +1,8 @@
+name: Plugins Validation
+on:
+  workflow_dispatch:
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Plugins validation workflow scaffold"
