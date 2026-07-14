@@ -1,12 +1,12 @@
 # 📅 Daily Learning Log
 
-Last Updated: 13 July 2026
+Last Updated: 14 July 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
 - Virtual environments isolate dependencies.
