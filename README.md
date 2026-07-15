@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 14 July 2026
+Last Updated: 15 July 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Prompt engineering improves output quality.
