@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 15 July 2026
+Last Updated: 16 July 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
 - Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Vector databases power modern AI retrieval.
