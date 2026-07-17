@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 16 July 2026
+Last Updated: 17 July 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
 - Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Agentic AI combines tools with reasoning.
