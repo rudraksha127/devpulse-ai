@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 17 July 2026
+Last Updated: 18 July 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Prompt engineering improves output quality.
