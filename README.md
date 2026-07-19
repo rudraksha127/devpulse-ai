@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 18 July 2026
+Last Updated: 19 July 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- RAG improves factual accuracy of LLMs.
