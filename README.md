@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 19 July 2026
+Last Updated: 20 July 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
 - Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Prompt engineering improves output quality.
