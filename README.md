@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 21 July 2026
+Last Updated: 22 July 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
 - RAG improves factual accuracy of LLMs.
