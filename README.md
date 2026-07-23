@@ -1,6 +1,6 @@
 # 📅 Daily Learning Log
 
-Last Updated: 22 July 2026
+Last Updated: 23 July 2026
 
 ## 🧠 DSA Tip
 - Practice Binary Search on Answer.
@@ -9,7 +9,7 @@ Last Updated: 22 July 2026
 - Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Embeddings enable semantic search.
