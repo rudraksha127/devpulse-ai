@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 23 July 2026
+Last Updated: 24 July 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Vector databases power modern AI retrieval.
