@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 26 July 2026
+Last Updated: 27 July 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Vector databases power modern AI retrieval.
