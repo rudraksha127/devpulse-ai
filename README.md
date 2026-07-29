@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 28 July 2026
+Last Updated: 29 July 2026
 
 ## 🧠 DSA Tip
 - Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Embeddings enable semantic search.
