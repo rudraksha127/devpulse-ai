@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 29 July 2026
+Last Updated: 30 July 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
 - Embeddings enable semantic search.
