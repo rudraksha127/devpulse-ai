@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 31 July 2026
+Last Updated: 01 August 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
