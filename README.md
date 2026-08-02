@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 01 August 2026
+Last Updated: 02 August 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Embeddings enable semantic search.
