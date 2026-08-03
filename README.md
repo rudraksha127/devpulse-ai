@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 02 August 2026
+Last Updated: 03 August 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
