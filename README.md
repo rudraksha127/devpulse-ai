@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 03 August 2026
+Last Updated: 04 August 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Vector databases power modern AI retrieval.
