@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 04 August 2026
+Last Updated: 05 August 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- RAG improves factual accuracy of LLMs.
