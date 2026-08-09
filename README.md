@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 08 August 2026
+Last Updated: 09 August 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Vector databases power modern AI retrieval.
