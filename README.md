@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 09 August 2026
+Last Updated: 10 August 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- RAG improves factual accuracy of LLMs.
