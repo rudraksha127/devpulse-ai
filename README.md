@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 10 August 2026
+Last Updated: 11 August 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
 - RAG improves factual accuracy of LLMs.
