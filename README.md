@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 11 August 2026
+Last Updated: 12 August 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Embeddings enable semantic search.
