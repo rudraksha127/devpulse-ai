@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 18 August 2026
+Last Updated: 19 August 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
 - Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Agentic AI combines tools with reasoning.
