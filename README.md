@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 21 August 2026
+Last Updated: 22 August 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
 - Agentic AI combines tools with reasoning.
