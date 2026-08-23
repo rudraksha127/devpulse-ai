@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 22 August 2026
+Last Updated: 23 August 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
 - Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Prompt engineering improves output quality.
