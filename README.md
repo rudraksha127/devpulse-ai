@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 23 August 2026
+Last Updated: 24 August 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Vector databases power modern AI retrieval.
