@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 24 August 2026
+Last Updated: 25 August 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Agentic AI combines tools with reasoning.
