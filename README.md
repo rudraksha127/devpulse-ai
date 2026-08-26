@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 25 August 2026
+Last Updated: 26 August 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Prompt engineering improves output quality.
