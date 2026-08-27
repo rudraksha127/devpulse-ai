@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 26 August 2026
+Last Updated: 27 August 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
 - Prompt engineering improves output quality.
