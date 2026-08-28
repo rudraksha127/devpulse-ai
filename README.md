@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 27 August 2026
+Last Updated: 28 August 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Agentic AI combines tools with reasoning.
