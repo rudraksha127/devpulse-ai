@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 28 August 2026
+Last Updated: 29 August 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Embeddings enable semantic search.
