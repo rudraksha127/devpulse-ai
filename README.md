@@ -1,6 +1,6 @@
 # 📅 Daily Learning Log
 
-Last Updated: 29 August 2026
+Last Updated: 30 August 2026
 
 ## 🧠 DSA Tip
 - Sliding Window optimizes many O(n²) problems.
