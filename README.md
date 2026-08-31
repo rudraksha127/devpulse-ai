@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 30 August 2026
+Last Updated: 31 August 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
 - Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Agentic AI combines tools with reasoning.
