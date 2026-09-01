@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 31 August 2026
+Last Updated: 01 September 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Vector databases power modern AI retrieval.
