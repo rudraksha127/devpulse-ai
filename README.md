@@ -1,6 +1,6 @@
 # 📅 Daily Learning Log
 
-Last Updated: 03 September 2026
+Last Updated: 04 September 2026
 
 ## 🧠 DSA Tip
 - Two Pointers reduce unnecessary iterations.
@@ -9,7 +9,7 @@ Last Updated: 03 September 2026
 - Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
 - Vector databases power modern AI retrieval.
