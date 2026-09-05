@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 04 September 2026
+Last Updated: 05 September 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- RAG improves factual accuracy of LLMs.
