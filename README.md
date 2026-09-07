@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 06 September 2026
+Last Updated: 07 September 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
 - Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Embeddings enable semantic search.
