@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 09 September 2026
+Last Updated: 10 September 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
 - Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Prompt engineering improves output quality.
