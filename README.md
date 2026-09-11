@@ -1,6 +1,6 @@
 # 📅 Daily Learning Log
 
-Last Updated: 10 September 2026
+Last Updated: 11 September 2026
 
 ## 🧠 DSA Tip
 - Prefix Sum helps answer range queries efficiently.
@@ -12,4 +12,4 @@ Last Updated: 10 September 2026
 - Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- RAG improves factual accuracy of LLMs.
