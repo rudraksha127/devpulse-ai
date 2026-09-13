@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 12 September 2026
+Last Updated: 13 September 2026
 
 ## 🧠 DSA Tip
 - DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Vector databases power modern AI retrieval.
