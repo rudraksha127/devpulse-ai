@@ -1,12 +1,12 @@
 # 📅 Daily Learning Log
 
-Last Updated: 13 September 2026
+Last Updated: 14 September 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
 - Use pathlib instead of os.path.
