@@ -1,9 +1,9 @@
 # 📅 Daily Learning Log
 
-Last Updated: 14 September 2026
+Last Updated: 15 September 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
 - Use IAM Roles instead of Access Keys whenever possible.
@@ -12,4 +12,4 @@ Last Updated: 14 September 2026
 - Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- RAG improves factual accuracy of LLMs.
