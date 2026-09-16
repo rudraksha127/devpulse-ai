@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 15 September 2026
+Last Updated: 16 September 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
 - Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Vector databases power modern AI retrieval.
