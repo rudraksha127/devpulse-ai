@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 17 September 2026
+Last Updated: 18 September 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
 - RAG improves factual accuracy of LLMs.
