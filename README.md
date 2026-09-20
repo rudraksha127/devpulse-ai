@@ -1,9 +1,9 @@
 # 📅 Daily Learning Log
 
-Last Updated: 19 September 2026
+Last Updated: 20 September 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
 - Lambda is serverless and event-driven.
@@ -12,4 +12,4 @@ Last Updated: 19 September 2026
 - Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Agentic AI combines tools with reasoning.
