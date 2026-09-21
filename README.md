@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 20 September 2026
+Last Updated: 21 September 2026
 
 ## 🧠 DSA Tip
 - Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
 - Agentic AI combines tools with reasoning.
