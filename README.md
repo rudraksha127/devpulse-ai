@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 21 September 2026
+Last Updated: 22 September 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- RAG improves factual accuracy of LLMs.
