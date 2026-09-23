@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 22 September 2026
+Last Updated: 23 September 2026
 
 ## 🧠 DSA Tip
 - Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Embeddings enable semantic search.
