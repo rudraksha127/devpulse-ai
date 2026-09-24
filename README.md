@@ -1,12 +1,12 @@
 # 📅 Daily Learning Log
 
-Last Updated: 23 September 2026
+Last Updated: 24 September 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
 - Use list comprehensions for cleaner code.
