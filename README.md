@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 24 September 2026
+Last Updated: 25 September 2026
 
 ## 🧠 DSA Tip
 - Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Vector databases power modern AI retrieval.
