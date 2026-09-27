@@ -1,12 +1,12 @@
 # 📅 Daily Learning Log
 
-Last Updated: 26 September 2026
+Last Updated: 27 September 2026
 
 ## 🧠 DSA Tip
 - Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
 - Enumerate is better than manual indexing.
