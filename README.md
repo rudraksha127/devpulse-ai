@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 27 September 2026
+Last Updated: 28 September 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- RAG improves factual accuracy of LLMs.
