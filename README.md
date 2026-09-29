@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 28 September 2026
+Last Updated: 29 September 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Embeddings enable semantic search.
