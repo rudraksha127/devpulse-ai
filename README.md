@@ -1,6 +1,6 @@
 # 📅 Daily Learning Log
 
-Last Updated: 01 October 2026
+Last Updated: 02 October 2026
 
 ## 🧠 DSA Tip
 - DFS and BFS are fundamental graph traversals.
@@ -9,7 +9,7 @@ Last Updated: 01 October 2026
 - Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Prompt engineering improves output quality.
