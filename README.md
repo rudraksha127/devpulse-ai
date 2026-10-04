@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 03 October 2026
+Last Updated: 04 October 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
 - Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Agentic AI combines tools with reasoning.
