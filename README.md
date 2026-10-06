@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 05 October 2026
+Last Updated: 06 October 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Prompt engineering improves output quality.
