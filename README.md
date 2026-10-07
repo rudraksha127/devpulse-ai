@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 06 October 2026
+Last Updated: 07 October 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Embeddings enable semantic search.
