@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 07 October 2026
+Last Updated: 08 October 2026
 
 ## 🧠 DSA Tip
 - Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Agentic AI combines tools with reasoning.
