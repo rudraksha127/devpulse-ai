@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 08 October 2026
+Last Updated: 09 October 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
 - CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
 - Agentic AI combines tools with reasoning.
