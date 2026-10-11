@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 10 October 2026
+Last Updated: 11 October 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Embeddings enable semantic search.
