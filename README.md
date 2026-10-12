@@ -1,12 +1,12 @@
 # 📅 Daily Learning Log
 
-Last Updated: 11 October 2026
+Last Updated: 12 October 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
 - Use list comprehensions for cleaner code.
