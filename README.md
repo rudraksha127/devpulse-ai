@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 12 October 2026
+Last Updated: 13 October 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
 - Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Prompt engineering improves output quality.
