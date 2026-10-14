@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 13 October 2026
+Last Updated: 14 October 2026
 
 ## 🧠 DSA Tip
 - Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
 - Prompt engineering improves output quality.
