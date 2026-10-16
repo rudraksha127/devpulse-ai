@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 15 October 2026
+Last Updated: 16 October 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
 - Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
