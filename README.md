@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 18 October 2026
+Last Updated: 19 October 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
 - RAG improves factual accuracy of LLMs.
