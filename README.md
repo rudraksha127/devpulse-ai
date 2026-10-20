@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 19 October 2026
+Last Updated: 20 October 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- RAG improves factual accuracy of LLMs.
+- Vector databases power modern AI retrieval.
