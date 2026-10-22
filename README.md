@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 21 October 2026
+Last Updated: 22 October 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- RAG improves factual accuracy of LLMs.
