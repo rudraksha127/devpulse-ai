@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 26 October 2026
+Last Updated: 27 October 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use pathlib instead of os.path.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
 - Embeddings enable semantic search.
