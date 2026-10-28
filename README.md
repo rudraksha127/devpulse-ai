@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 27 October 2026
+Last Updated: 28 October 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
 - CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
