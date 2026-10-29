@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 28 October 2026
+Last Updated: 29 October 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- DFS and BFS are fundamental graph traversals.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
 - RAG improves factual accuracy of LLMs.
