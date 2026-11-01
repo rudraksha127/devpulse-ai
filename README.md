@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 31 October 2026
+Last Updated: 01 November 2026
 
 ## 🧠 DSA Tip
 - Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
 - Vector databases power modern AI retrieval.
