@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 01 November 2026
+Last Updated: 02 November 2026
 
 ## 🧠 DSA Tip
 - Sliding Window optimizes many O(n²) problems.
 
 ## ☁️ AWS Tip
-- Use Auto Scaling for high availability.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Agentic AI combines tools with reasoning.
