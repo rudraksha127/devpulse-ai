@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 03 November 2026
+Last Updated: 04 November 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
 - Agentic AI combines tools with reasoning.
