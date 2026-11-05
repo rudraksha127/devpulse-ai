@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 04 November 2026
+Last Updated: 05 November 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
 - Use pathlib instead of os.path.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- RAG improves factual accuracy of LLMs.
