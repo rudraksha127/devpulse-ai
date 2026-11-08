@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 07 November 2026
+Last Updated: 08 November 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Use IAM Roles instead of Access Keys whenever possible.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
 - Virtual environments isolate dependencies.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
