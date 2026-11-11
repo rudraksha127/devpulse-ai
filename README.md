@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 10 November 2026
+Last Updated: 11 November 2026
 
 ## 🧠 DSA Tip
 - Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Lambda is serverless and event-driven.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
