@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 12 November 2026
+Last Updated: 13 November 2026
 
 ## 🧠 DSA Tip
-- Practice Binary Search on Answer.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
 - RAG improves factual accuracy of LLMs.
