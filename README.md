@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 14 November 2026
+Last Updated: 15 November 2026
 
 ## 🧠 DSA Tip
-- DFS and BFS are fundamental graph traversals.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
 - CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Agentic AI combines tools with reasoning.
