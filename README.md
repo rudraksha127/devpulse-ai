@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 15 November 2026
+Last Updated: 16 November 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Enable versioning on S3 buckets.
 
 ## 🐍 Python Tip
 - Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Agentic AI combines tools with reasoning.
+- Prompt engineering improves output quality.
