@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 16 November 2026
+Last Updated: 17 November 2026
 
 ## 🧠 DSA Tip
-- Prefix Sum helps answer range queries efficiently.
+- Two Pointers reduce unnecessary iterations.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- Use IAM Roles instead of Access Keys whenever possible.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Agentic AI combines tools with reasoning.
