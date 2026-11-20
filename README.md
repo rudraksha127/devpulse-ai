@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 19 November 2026
+Last Updated: 20 November 2026
 
 ## 🧠 DSA Tip
-- Sliding Window optimizes many O(n²) problems.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- Enable versioning on S3 buckets.
+- CloudWatch helps monitor AWS resources.
 
 ## 🐍 Python Tip
-- Use list comprehensions for cleaner code.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Vector databases power modern AI retrieval.
+- Embeddings enable semantic search.
