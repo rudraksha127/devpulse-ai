@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 20 November 2026
+Last Updated: 21 November 2026
 
 ## 🧠 DSA Tip
 - Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Enumerate is better than manual indexing.
+- Use zip() to iterate over multiple lists.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- RAG improves factual accuracy of LLMs.
