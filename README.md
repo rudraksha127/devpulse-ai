@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 22 November 2026
+Last Updated: 23 November 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Practice Binary Search on Answer.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Use Auto Scaling for high availability.
 
 ## 🐍 Python Tip
-- Use zip() to iterate over multiple lists.
+- Use list comprehensions for cleaner code.
 
 ## 🤖 AI Tip
-- Prompt engineering improves output quality.
+- Embeddings enable semantic search.
