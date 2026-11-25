@@ -1,15 +1,15 @@
 # 📅 Daily Learning Log
 
-Last Updated: 24 November 2026
+Last Updated: 25 November 2026
 
 ## 🧠 DSA Tip
-- Two Pointers reduce unnecessary iterations.
+- Prefix Sum helps answer range queries efficiently.
 
 ## ☁️ AWS Tip
-- CloudWatch helps monitor AWS resources.
+- Lambda is serverless and event-driven.
 
 ## 🐍 Python Tip
-- Virtual environments isolate dependencies.
+- Enumerate is better than manual indexing.
 
 ## 🤖 AI Tip
-- Embeddings enable semantic search.
+- Agentic AI combines tools with reasoning.
